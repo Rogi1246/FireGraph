@@ -572,7 +572,7 @@ VisualEffect:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 788914604}
   m_Enabled: 1
-  m_Asset: {fileID: 8926484042661614526, guid: 1ea0a070e000c4045b7e98d7fecb3cef, type: 3}
+  m_Asset: {fileID: 8926484042661614526, guid: efe52daeeaa33c044accfbac6cd21ce1, type: 3}
   m_InitialEventName: OnPlay
   m_InitialEventNameOverriden: 0
   m_StartSeed: 0
@@ -585,7 +585,7 @@ VisualEffect:
       m_Array: []
     m_Vector3f:
       m_Array:
-      - m_Value: {x: 0.08, y: 8.69, z: 0.08}
+      - m_Value: {x: 0.08, y: 9.61, z: 0.08}
         m_Name: CursorPosition
         m_Overridden: 1
     m_Vector4f:
